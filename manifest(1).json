@@ -1,0 +1,34 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/fw33xi0vihe-mp5sqpuv",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  
+      "items": [
+        {
+          "id": "https://example.org/fw33xi0vihe-mp5sqpuv/canvas/txjf0o8ms7-mp5sqw2v/annotation-page/fo39fi9uofp-mp5sqw2v",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/fw33xi0vihe-mp5sqpuv/annotation/4xw4zcgx7y7-mp5sqvow",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/fw33xi0vihe-mp5sqpuv/canvas/txjf0o8ms7-mp5sqw2v",
+              "body": {
+                "id": "https://green-queen.github.io/fantastic-couscous/camilla.jpeg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1024,
+                "width": 720
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
