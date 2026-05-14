@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://green-queen.github.io/fantastic-couscous/manifest.json",
+  "id": "https://green-queen.github.io/fantastic-couscous/manifests/my-cat-mimi.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -29,7 +29,7 @@
               "motivation": "painting",
               "target": "https://green-queen.github.io/fantastic-couscous/canvas/cat1",
               "body": {
-                "id": "https://green-queen.github.io/fantastic-couscous/camilla.jpeg",
+                "id": "https://green-queen.github.io/fantastic-couscous/images/camilla.jpeg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1024,
